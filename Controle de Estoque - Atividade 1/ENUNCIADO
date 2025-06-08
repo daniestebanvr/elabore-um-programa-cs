@@ -1,0 +1,39 @@
+DESAFIO - Sistema de Controle de Estoque (Console App em C#)
+
+🧾 Descrição:
+Desenvolver uma aplicação de console em C# para gerenciar o controle de estoque de produtos. Este sistema simula um pequeno controle interno de inventário, permitindo as principais operações de cadastro, listagem, busca e atualização de dados de produtos.
+
+🎯 Objetivo:
+Criar um sistema funcional que permita gerenciar até 5 produtos com as seguintes funcionalidades:
+
+📌 Funcionalidades Requeridas:
+
+1. Cadastrar Produto
+   - Cada produto deve conter:
+     • Nome (string)
+     • Preço (double)
+     • Quantidade em estoque (int)
+
+2. Listar Produtos
+   - Exibir todos os produtos cadastrados com suas respectivas informações.
+
+3. Buscar Produto por Nome
+   - Permitir que o usuário digite o nome de um produto.
+   - Exibir as informações do produto, caso ele exista na base.
+
+4. Atualizar Estoque
+   - Permitir que o usuário atualize a quantidade em estoque de um produto existente.
+   - A atualização pode representar a entrada (aumento) ou saída (redução) de produtos no estoque.
+
+🚧 Restrições:
+- O sistema deve ser executado em ambiente de console.
+- O código deve ser orientado a objetos (uso de classes, propriedades e listas).
+
+💡 Dica:
+Comece criando a classe `Produto`, depois implemente o menu de opções no `Main()` e, por fim, implemente cada funcionalidade de forma separada e modularizada.
+
+🔧 Tecnologias:
+- Linguagem: C#
+- Plataforma: Console Application (.NET)
+
+📁 Sugestão de nome de arquivo: `ControleDeEstoque.cs`
