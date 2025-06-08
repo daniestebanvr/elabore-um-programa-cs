@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Controle de Estoque - Atividade 1/1.0.0": {
+        "runtime": {
+          "Controle de Estoque - Atividade 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controle de Estoque - Atividade 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
